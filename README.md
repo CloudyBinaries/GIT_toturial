@@ -1,1 +1,1 @@
-"# GIT_test" 
+Open repo using Obsidian 
