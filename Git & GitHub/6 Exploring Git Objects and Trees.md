@@ -9,7 +9,7 @@
 عشان نعرف الحالة دي : 
 
 ```bash 
-git status    -- [ must be in the master ]
+git status    -- [ must be in the working tree ]
 ```
 
 ![[Pasted image 20261027152747.png]]
